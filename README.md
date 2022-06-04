@@ -1,4 +1,2 @@
 # covid-api
-
-#Notificação de casos de covid19 por UF do Brasil
-##Feito em Laravel com Tailwind
+Notificação de casos de covid19 por UF do Brasil
