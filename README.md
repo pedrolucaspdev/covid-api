@@ -1,7 +1,7 @@
 
 # Covid API 
 <b>
-  <h2>Notificação de casos de covid19 por UF do Brasil</h2>
+  <h2>Notificação de casos de covid19 por UF do Brasil feito em Laravel + TailwindCSS</h2>
    <a href="https://covid19-brazil-api.vercel.app/api/report/v1/brazil/uf/rj">API Utilizada - Covid UF</a> 
 </b>
 
